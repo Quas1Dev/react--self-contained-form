@@ -9,3 +9,9 @@ root.render(
     <App />
   </React.StrictMode>
 );
+/*
+
+Strict mode cause double rendering. Adding a console.log() in the App component will illustrate What
+I mean here. The reffered code will display the same message twice.
+
+*/

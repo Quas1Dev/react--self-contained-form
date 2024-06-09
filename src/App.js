@@ -51,7 +51,7 @@ export default class App extends React.Component{
             Configuring radio buttons.
             When we click one of the radio buttons, the value on its value
             property is assigned to the employment state property.
-            This state property has its value then compared to an string
+            This state property has its value then compared to a string
             on each radio button to determine which one is to be checked.
             */}
           <fieldset>
